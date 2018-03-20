@@ -1,0 +1,11 @@
+{
+        "invoice": {
+            "invoiceID": 1,
+            "InvoiceNumber": 23,
+            "CompanyName": "Nuts & Bolts plc",
+            "TotalNet": 234.23,
+            "TotalGross": 456.45,
+        "CreatedAt": "2018-03-18T12:34:56.123Z",
+            "Currency": "ZLW"
+        }
+}

@@ -1,0 +1,12 @@
+{
+    "Product" : {
+        "ID": 4,
+        "InvoiceID": 1,
+        "Name": "Sprocket",
+        "Price": 45.456,
+        "Currency": "EUR",
+        "InvoicePrice": 31.234,
+        "Amount": 7,
+        "CreatedAt": "2018-03-18T12:34:56.123Z"
+    }
+}
